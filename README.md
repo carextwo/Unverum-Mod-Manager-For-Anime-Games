@@ -1,5 +1,5 @@
 # Unverum Mod Manager Latest 2026 – UE4 Anime Games Mod Installer & Manager Pack
-[![Stars](https://img.shields.io/github/stars/arextwo/Unverum-Mod-Manager-For-Anime-Games)](https://github.com/arextwo/Unverum-Mod-Manager-For-Anime-Games) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/сarextwo/Unverum-Mod-Manager-For-Anime-Games)](https://github.com/сarextwo/Unverum-Mod-Manager-For-Anime-Games) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Complete ready-to-use **Unverum Mod Manager** setup — the ultimate tool to **download, install and manage mods** for Unreal Engine 4 anime fighting games. Easy one-click mod installation from GameBanana, auto-updates, conflict resolution, mod enabling/disabling without restarting. 
 
